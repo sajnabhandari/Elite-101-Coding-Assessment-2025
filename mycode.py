@@ -78,7 +78,7 @@ restaurant_tables = [
 # Running the test cases
 print("Level 1: List all free tables")
 free_tables = list_free_tables(restaurant_tables)
-print(free_tables)  # Expected output: ['T1', 'T3', 'T4']
+print(free_tables)  #  output: ['T1', 'T3', 'T4']
 
 print("\nLevel 2: Find 1 free table for party size = 2")
 party_size = 2
